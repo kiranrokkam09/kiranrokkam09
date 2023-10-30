@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :speech_balloon:  Ask me about Django, Dynamic Programming, Datastructures and Algorithms
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode ,Opensource projects and read tech articles.
 
 - :mailbox:How to reach me: kiran.rokkam456@gmail.com
 
