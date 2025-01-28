@@ -10,6 +10,9 @@
   <a href="https://www.hackerrank.com/kiran_rokkam456?hr_r=1">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
+  <a href="https://www.naukri.com/code360/profile/ac714dfc-d779-4eb3-80f5-f10e62b4826d">
+  <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+  </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=kiran.rokkam456@gmail.com&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
@@ -20,11 +23,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
+</div> -->
 
 ### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
